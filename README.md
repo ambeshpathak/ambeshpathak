@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ambesh Pathak 👋
 
-<!--
-**ambeshpathak/ambeshpathak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCA Graduate | ASP.NET & PHP Developer | Java | SQL
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Languages:** Java, PHP, C#, SQL
+- **Web:** ASP.NET, HTML, CSS, JavaScript
+- **Databases:** MySQL, SQL Server
+- **Tools:** Visual Studio, Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Project
+🔗 [Maintenance Portal](https://github.com/ambeshpathak/Maintenanceportal) — Role-based ASP.NET app for maintenance request management (Admin, User, Support Team)
+
+## 📫 Connect
+- LinkedIn: [ambeshpathak](https://linkedin.com/in/ambeshpathak)
+- Email: ambeshpathak.0@gmail.com
